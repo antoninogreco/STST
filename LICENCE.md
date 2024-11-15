@@ -1,3 +1,8 @@
+   Copyright (2024-present) Antonino Greco & Markus Siegel
+
+   Apache License
+   Version 2.0, January 2004
+
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
