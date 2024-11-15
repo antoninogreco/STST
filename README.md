@@ -2,6 +2,11 @@
 <img src="docs/logo.png" width="70%">
 </p>
 
+|Paper | Preprint  | Code Release | 
+|------|-----------|---------|
+| **Coming soon** at *Nature Comp Sci*!|[![preprint arXiv](https://img.shields.io/badge/doi-arXiv:2403.04940-green.svg)](https://doi.org/10.48550/arXiv.2403.04940) | [![Release STST](https://zenodo.org/badge/791373320.svg)](https://doi.org/10.5281/zenodo.14168470) |
+
+
 
 # Spatiotemporal Style Transfer (STST)
 The STST algorithm is a dynamic visual stimulus generation framework designed for vision research. 
@@ -40,6 +45,37 @@ This procedure can generate dynamic stimuli like the following. For comparison, 
 ## License
 Copyright (2024-present) Antonino Greco & Markus Siegel\
 STST is open source software under an Apache 2.0 license - see the LICENSE file for details.
+
+## Citation
+Please cite this code repository if you use this code in your research or work, as following:
+
+Antonino Greco. (2024). antoninogreco/STST: STST v1.0 (v1.0). Zenodo. DOI: 10.5281/zenodo.14168471
+```    
+@software{antonino_greco_2024_14168471,
+  author       = {Antonino Greco},
+  title        = {antoninogreco/STST: STST v1.0},
+  month        = nov,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.14168471},
+  url          = {https://doi.org/10.5281/zenodo.14168471}
+}
+```
+and the associated paper (preprint for now, reference for the Nature Comp Sci paper **coming soon**):
+
+Greco, A., & Siegel, M. (2024). A spatiotemporal style transfer algorithm for dynamic visual stimulus generation. arXiv DOI: 10.48550/arXiv.2403.04940
+``` 
+@misc{greco2024spatiotemporalstyletransferalgorithm,
+      title={A spatiotemporal style transfer algorithm for dynamic visual stimulus generation}, 
+      author={Antonino Greco and Markus Siegel},
+      year={2024},
+      eprint={2403.04940},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2403.04940}, 
+}
+```
 
 ## Acknowledgements
 This study was supported by the European Research Council (ERC; https://erc.europa.eu/) CoG 864491 (M.S) and by the German Research Foundation (DFG; https://www.dfg.de/) projects 276693517 (SFB 1233) (M.S.) and SI 1332/6-1 (SPP 2041) (M.S.).
