@@ -29,7 +29,7 @@ This procedure can generate dynamic stimuli like the following. For comparison, 
 ![STST Algorithm](docs/vid1.gif)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+STST is open source software under an Apache 2.0 license - see the LICENSE file for details.
 
 ## Citation
 If you use STST in your research, please cite:
