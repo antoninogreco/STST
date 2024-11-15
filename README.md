@@ -41,11 +41,6 @@ This procedure can generate dynamic stimuli like the following. For comparison, 
 Copyright (2024-present) Antonino Greco & Markus Siegel\
 STST is open source software under an Apache 2.0 license - see the LICENSE file for details.
 
-## Citation
-If you use STST in your research, please cite:
-
-A. Greco & M. Siegel (2024). A spatiotemporal style transfer algorithm for dynamic visual stimulus generation. arXiv
-
 ## Acknowledgements
 This study was supported by the European Research Council (ERC; https://erc. europa.eu/) CoG 864491 (M.S) and by the German Research Foundation (DFG; https://www.dfg.de/) projects 276693517 (SFB 1233) (M.S.) and SI 1332/6-1 (SPP 2041) (M.S.).
 
