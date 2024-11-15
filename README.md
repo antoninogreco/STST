@@ -30,6 +30,7 @@ This procedure can generate dynamic stimuli like the following. For comparison, 
 
 ## License
 STST is open source software under an Apache 2.0 license - see the LICENSE file for details.
+Copyright (2024-present) Antonino Greco & Markus Siegel
 
 ## Citation
 If you use STST in your research, please cite:
