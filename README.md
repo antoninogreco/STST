@@ -12,30 +12,18 @@ This makes it a powerful tool for studying object recognition and other areas of
 <img src="fig1.png" width="70%">
 </p>
 
-
-
-## Features
-Independent Spatiotemporal Factorization: Generates video stimuli with isolated spatial and temporal features, allowing for targeted testing of human and artificial vision models.
-Versatile Stimulus Generation: Creates stimuli for various visual research applications, particularly useful for studying biases in spatial and temporal encoding.
-Optimized for Deep Vision Models: Tested on models like PredNet, STST preserves low-level visual features, making it a valuable tool for machine learning research on spatiotemporal perception.
-
-## Repository Structure
-SpaceTimeStyleTransfer.py: Main class implementing the STST algorithm.
-configurations/: Example configurations for running STST with various options for spatiotemporal factorization.
-data/: Placeholder folder for input videos formatted as 4D numpy arrays.
-output/: Default output folder for generated videos.
-Getting Started
-## Prerequisites
-Python: Ensure you have Python 3.6 or higher installed.
-TensorFlow: Required for neural network operations.
-NumPy: For numerical operations on input video arrays.
-Additional Libraries: Check requirements.txt for other dependencies.
 ## Installation
-Clone the repository and install dependencies:
+Clone the repository and install dependencies, which are Python >= 3.6, OpenCV >= 4.9.0, TensorFlow >= 2.4:
 
-bash
-Copy code
-git clone https://github.com/username/STST
+``` bash
+git clone https://github.com/antoninogreco/STST
 cd STST
 pip install -r requirements.txt
-Usage
+``` 
+## Usage
+Use the `synthesize.py` file to generate "model metamer" stimuli for object recognition, 
+which match the low-level spatiotemporal features of their natural counterparts but lack their high-level semantic features.
+``` bash
+python synthesize.py -tar "data/Animal"
+``` 
+
