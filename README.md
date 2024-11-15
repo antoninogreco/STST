@@ -13,10 +13,10 @@ It is based on a two-stream deep neural network model that factorizes spatial an
 
 ## Publication
 
-Paper at Nature Computational Science\
+_Paper at Nature Computational Science_\
 Greco, A., & Siegel, M. (2024). A spatiotemporal style transfer algorithm for dynamic visual stimulus generation. Nature Computational Science **COMING SOON**
 
-Preprint at arXiv\
+_Preprint at arXiv_\
 [Greco, A., & Siegel, M. (2024). A spatiotemporal style transfer algorithm for dynamic visual stimulus generation. arXiv preprint arXiv:2403.04940](https://arxiv.org/abs/2403.04940)
 
 
