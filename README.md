@@ -4,7 +4,7 @@
 
 |Paper | Preprint  | Code Release | 
 |------|-----------|---------|
-| [Nature Computational Science](https://doi.org/10.48550/arXiv.2403.04940)|[![preprint arXiv](https://img.shields.io/badge/doi-arXiv:2403.04940-green.svg)](https://doi.org/10.48550/arXiv.2403.04940) | [![Release STST](https://zenodo.org/badge/791373320.svg)](https://doi.org/10.5281/zenodo.14168470) |
+| [Nature Computational Science](https://www.nature.com/articles/s43588-024-00746-w)|[![preprint arXiv](https://img.shields.io/badge/doi-arXiv:2403.04940-green.svg)](https://doi.org/10.48550/arXiv.2403.04940) | [![Release STST](https://zenodo.org/badge/791373320.svg)](https://doi.org/10.5281/zenodo.14168470) |
 
 
 
