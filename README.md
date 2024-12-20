@@ -4,7 +4,7 @@
 
 |Paper | Preprint  | Code Release | 
 |------|-----------|---------|
-| ![Nature Computational Science](https://doi.org/10.48550/arXiv.2403.04940)|[![preprint arXiv](https://img.shields.io/badge/doi-arXiv:2403.04940-green.svg)](https://doi.org/10.48550/arXiv.2403.04940) | [![Release STST](https://zenodo.org/badge/791373320.svg)](https://doi.org/10.5281/zenodo.14168470) |
+| [Nature Computational Science](https://doi.org/10.48550/arXiv.2403.04940)|[![preprint arXiv](https://img.shields.io/badge/doi-arXiv:2403.04940-green.svg)](https://doi.org/10.48550/arXiv.2403.04940) | [![Release STST](https://zenodo.org/badge/791373320.svg)](https://doi.org/10.5281/zenodo.14168470) |
 
 
 
@@ -66,7 +66,7 @@ and the associated paper:
 
 Greco, A., Siegel, M. A spatiotemporal style transfer algorithm for dynamic visual stimulus generation. Nature Computational Science (2024). https://doi.org/10.1038/s43588-024-00746-w
 ``` 
-@article{greco_spatiotemporal_2024,
+@article{greco_stst_2024,
 	title = {A spatiotemporal style transfer algorithm for dynamic visual stimulus generation},
 	issn = {2662-8457},
 	url = {https://doi.org/10.1038/s43588-024-00746-w},
